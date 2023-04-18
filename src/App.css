@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.Designed-by {
+  position: absolute;
+  bottom: 40px;
+  right: 100px;
+  color: #f5f0f0;
+  font-size: 24px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
